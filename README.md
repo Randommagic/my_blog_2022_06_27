@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby minimal starter
+  개츠비 블로그 테스트입니다!!!!
 </h1>
 
 ## 🚀 Quick start
